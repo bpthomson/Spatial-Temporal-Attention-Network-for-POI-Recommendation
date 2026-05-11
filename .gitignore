@@ -1,2 +1,5 @@
 *.pyc
 Gowalla_dataset/
+Gowalla_thinned/
+*.pth
+*.pkl
